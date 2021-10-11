@@ -22,5 +22,5 @@ $ npm install
 
 ## 🤝 Support
 
->>>>> Contributions, issues, and feature requests are welcome! <br>
+> Contributions, issues, and feature requests are welcome! <br>
 Give a ⭐️ if you like this project!
